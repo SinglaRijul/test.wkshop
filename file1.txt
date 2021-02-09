@@ -14,3 +14,4 @@ GIT COMMANDS
 9. rm -rf .git = removes .git folder
 10. git checkout -b <branch name> =checkouts from current branch and crete new branch
 11. git branch = shows all branches
+12. git merge <branch name> =merges branch code with current branch
