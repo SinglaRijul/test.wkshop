@@ -8,8 +8,9 @@ GIT COMMANDS
 
 4. git status = files tracked, untracked ,etc
 5. git add <file name> = files to be tracked
-6. git add --a = track all files
+6. git add --a = track all files(staging area)
 7. git commit -m"<any message> = commit history
 8.git restore <filename>
 9. rm -rf .git = removes .git folder
-10.
+10. git checkout -b <branch name> =checkouts from current branch and crete new branch
+11. git branch = shows all branches
