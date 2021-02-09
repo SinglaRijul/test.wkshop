@@ -1,0 +1,15 @@
+GIT COMMANDS
+
+1. git init = creates empty repository in the current folder
+
+2, ls= list all files in folder
+
+3. ls -lart = all files(hidden too) listedgit status
+
+4. git status = files tracked, untracked ,etc
+5. git add <file name> = files to be tracked
+6. git add --a = track all files
+7. git commit -m"<any message> = commit history
+8.git restore <filename>
+9. rm -rf .git = removes .git folder
+10.
